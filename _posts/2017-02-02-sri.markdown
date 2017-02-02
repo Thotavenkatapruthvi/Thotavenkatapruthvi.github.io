@@ -6,3 +6,4 @@ image: /assets/images/sriram.jpg
 blog: true
 ---
 Sriramudu manchi baludu
+Thotamma ki nachinodu
